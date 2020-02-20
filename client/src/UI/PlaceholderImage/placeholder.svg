@@ -1,0 +1,15 @@
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>Placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Placeholder">
+            <g id="Group">
+                <rect id="Rectangle" fill="#DADADA" x="0" y="0" width="200" height="200"></rect>
+                <path d="M26.6531727,14.9193918 L172.487307,14.9193918 C178.982793,14.9193918 184.221088,20.1576869 184.221088,26.6531727 L184.221088,104.389471 L150.486468,61.8545154 C146.505363,56.6162204 138.543155,56.6162204 134.562051,61.8545154 L85.3220772,124.085461 L64.7879606,101.665558 C60.5973246,97.0558581 53.2637115,97.0558581 49.0730755,101.665558 L14.9193918,138.752687 L14.9193918,26.6531727 C14.9193918,20.1576869 20.1576869,14.9193918 26.6531727,14.9193918 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="#DADADA" fill-rule="nonzero" cx="51.3779253" cy="51.3779253" r="16.7625441"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
