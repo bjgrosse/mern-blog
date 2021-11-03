@@ -22,7 +22,7 @@
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "sanitize-html": "^1.21.1",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "jest": "^25.1.0",
